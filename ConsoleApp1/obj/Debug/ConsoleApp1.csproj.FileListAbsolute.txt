@@ -1,0 +1,15 @@
+C:\kao\clawerC\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\kao\clawerC\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\kao\clawerC\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\kao\clawerC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\kao\clawerC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\kao\clawerC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\kao\clawerC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\kao\clawerC\ConsoleApp1\ConsoleApp1\bin\Debug\selenium-manager\linux\selenium-manager
+C:\kao\clawerC\ConsoleApp1\ConsoleApp1\bin\Debug\selenium-manager\macos\selenium-manager
+C:\kao\clawerC\ConsoleApp1\ConsoleApp1\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\kao\clawerC\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.dll
+C:\kao\clawerC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\kao\clawerC\ConsoleApp1\ConsoleApp1\bin\Debug\System.Data.SqlClient.dll
+C:\kao\clawerC\ConsoleApp1\ConsoleApp1\bin\Debug\System.Data.SqlClient.xml
+C:\kao\clawerC\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.Support.dll
